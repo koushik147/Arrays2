@@ -1,3 +1,5 @@
+#Time_Complexity: O(m*n) 
+#Space_Complexity : O(1)
 class Solution:
     def gameOfLife(self, board: List[List[int]]) -> None:
         """
