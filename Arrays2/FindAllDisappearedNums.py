@@ -1,3 +1,5 @@
+#Time_Complexity: O(n) 
+#Space_Complexity : O(n)
 class Solution:
     def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
         result = [] # Create an empty array
